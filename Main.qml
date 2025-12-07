@@ -3,8 +3,8 @@ import QtQuick.Controls 2.15
 
 Window {
     id: window
-    width: 510
-    height: 410
+    width: 1000
+    height: 710
     visible: true
     title: qsTr("Тут много квадратиков, жми на любой")
 
@@ -210,7 +210,7 @@ Window {
         anchors.left: parent.left
         anchors.top: parent.top
         anchors.leftMargin: 15
-        anchors.topMargin: 217
+        anchors.topMargin: 316
         background: Rectangle {
             color: defaultColor
             radius: 20
@@ -224,7 +224,7 @@ Window {
         anchors.left: parent.left
         anchors.top: parent.top
         anchors.leftMargin: 115
-        anchors.topMargin: 217
+        anchors.topMargin: 316
         background: Rectangle {
             color: defaultColor
             radius: 20
@@ -238,7 +238,7 @@ Window {
         anchors.left: parent.left
         anchors.top: parent.top
         anchors.leftMargin: 215
-        anchors.topMargin: 217
+        anchors.topMargin: 316
         background: Rectangle {
             color: defaultColor
             radius: 20
@@ -252,7 +252,7 @@ Window {
         anchors.left: parent.left
         anchors.top: parent.top
         anchors.leftMargin: 315
-        anchors.topMargin: 217
+        anchors.topMargin: 316
         background: Rectangle {
             color: defaultColor
             radius: 20
@@ -266,7 +266,7 @@ Window {
         anchors.left: parent.left
         anchors.top: parent.top
         anchors.leftMargin: 415
-        anchors.topMargin: 217
+        anchors.topMargin: 316
         background: Rectangle {
             color: defaultColor
             radius: 20
@@ -280,7 +280,7 @@ Window {
         anchors.left: parent.left
         anchors.top: parent.top
         anchors.leftMargin: 15
-        anchors.topMargin: 117
+        anchors.topMargin: 411
         background: Rectangle {
             color: defaultColor
             radius: 20
@@ -294,7 +294,7 @@ Window {
         anchors.left: parent.left
         anchors.top: parent.top
         anchors.leftMargin: 115
-        anchors.topMargin: 117
+        anchors.topMargin: 411
         background: Rectangle {
             color: defaultColor
             radius: 20
@@ -308,7 +308,7 @@ Window {
         anchors.left: parent.left
         anchors.top: parent.top
         anchors.leftMargin: 215
-        anchors.topMargin: 117
+        anchors.topMargin: 411
         background: Rectangle {
             color: defaultColor
             radius: 20
@@ -322,7 +322,7 @@ Window {
         anchors.left: parent.left
         anchors.top: parent.top
         anchors.leftMargin: 315
-        anchors.topMargin: 117
+        anchors.topMargin: 411
         background: Rectangle {
             color: defaultColor
             radius: 20
@@ -336,7 +336,7 @@ Window {
         anchors.left: parent.left
         anchors.top: parent.top
         anchors.leftMargin: 415
-        anchors.topMargin: 117
+        anchors.topMargin: 411
         background: Rectangle {
             color: defaultColor
             radius: 20
