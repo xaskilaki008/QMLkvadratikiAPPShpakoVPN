@@ -3,8 +3,8 @@ import QtQuick.Controls 2.15
 
 Window {
     id: window
-    width: 1000
-    height: 710
+    width: 500
+    height: 500
     visible: true
     title: qsTr("Тут много квадратиков, жми на любой")
 
